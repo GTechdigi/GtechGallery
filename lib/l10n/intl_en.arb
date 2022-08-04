@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+
+  "appName": "GTech Gallery",
+
+  "appPageTitle": "All Apps",
+
+  "appLatest": "Latest",
+  "appLatestUpdate": "Latest update",
+  "appSize": "Size"
+}
