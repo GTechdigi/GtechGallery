@@ -10,6 +10,5 @@
 参考[./lib/Config.dart](https://github.com/GTechdigi/GtechGallery/blob/main/lib/Config.dart)修改相应配置
 
 ### 遗留问题
-1. IOS 未联调
-2. 出包历史记录未分页
+1. 出包历史记录未分页
 2. JSON 2 Modle 考虑使用json_serializable实现
